@@ -1,0 +1,10 @@
+name: local_shorts_clip_editor
+title: Local shorts clip editor
+description: 'Standar edit clip podcast SinPOD jadi YouTube Shorts gaya referensi TimeeleesPlus+ (Shorts ThJXGU-vzOo): cover hook emosi 2–3 detik + intro & SFX khas, tanpa voice-over, subtitle karaoke kuning Whisper large-v3 + koreksi istilah manual + QA subtitle ketat, jump cut rapat, watermark tengah SinPOD.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
